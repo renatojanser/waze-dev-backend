@@ -10,37 +10,30 @@ Nesse API "Waze Devs" poderemos localizar devs e suas tecnologias usadas. Com is
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
-<p align="center">
-  <a href="#dev-desenvolvedor">Desenvolvedor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tec-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#pre-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#install-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
-## :dev: Desenvolvedor 
+## Desenvolvedor 
 
 - [Renato Janser](https://github.com/renatojanser)
 
 
-## :tec: Tecnologias
+## Tecnologias
 
 - ⚡ Express — A web framework for Node.js
 
-## :pre: Pré-requisitos
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
 
-## :install: Instalação e execução
+## Instalação e execução
 
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd waze-dev-backend`;
 3. Rode `yarn` para instalar as dependências;
 7. Rode `yarn dev` para iniciar o servidor.
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
